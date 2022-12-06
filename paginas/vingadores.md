@@ -1,6 +1,6 @@
 # Vingadores
 
-![](https://github.com/GuilhermeKotchergenko/projeto-versionamento-santandercoders/paginas/imagens/vingadores.jpg?raw=true)
+![](https://github.com/GuilhermeKotchergenko/projeto-versionamento-santandercoders/blob/main/paginas/imagens/vingadores.jpg?raw=true)
 
 **Membros atuais:** Homem de Ferro, Capitão América, Thor, Namor, Fênix, Valquíria, Capitã Marvel, Blade, Estigma e Falcão Noturno.
 
