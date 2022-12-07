@@ -1,1 +1,0 @@
-um texto sobre o heroi
